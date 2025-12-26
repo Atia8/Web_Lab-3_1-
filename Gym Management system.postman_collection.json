@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "609636d2-66c0-476e-88f9-d39a913d5877",
+		"name": "Gym Management system",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47540822",
+		"_collection_link": "https://zamanatia8-6860273.postman.co/workspace/Atia-Zaman's-Workspace~3992496f-2f07-4479-885e-7f4cf48262cb/collection/47540822-609636d2-66c0-476e-88f9-d39a913d5877?action=share&source=collection_link&creator=47540822"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
